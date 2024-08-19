@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github page](https://github.com/cacesasa/four-card-feature-section)
-- Live Site URL: [Github pages live site URL](https://your-live-site-url.com)
+- Live Site URL: [Github pages live site URL](https://cacesasa.github.io/four-card-feature-section/)
 
 ## My process
 
