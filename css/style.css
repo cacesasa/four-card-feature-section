@@ -163,6 +163,10 @@ main {
 /* Desktop Layout */
 @media screen and (min-width: 70rem) {
 
+    main {
+        height: 100vh;
+    }
+
     .page_wrapper {
         width: 90rem;
     }
