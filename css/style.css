@@ -201,6 +201,10 @@ main {
         border-top: 0.25rem solid;
     }
 
+    .card p {
+        margin: 0.5rem 0 2.5rem 0;
+    }
+
     .supervisor {
         grid-area: supervisor;
         align-self: center;
